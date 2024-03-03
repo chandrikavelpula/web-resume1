@@ -1,0 +1,19 @@
+*{
+  margin: 5px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    width: 95%;
+    background-color: rgb(236, 234, 233);
+    line-height: 1.5;
+  }
+  
+  header {
+    background-color: rgb(161, 77, 77);
+    color: rgb(232, 224, 224);
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
